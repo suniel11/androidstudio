@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">LayoutConstraints</string>
+    <string name="app_name" translatable="false">LayoutConstraints</string>
+    <string name="spin_message">Spin flag</string>
 </resources>
