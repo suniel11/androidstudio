@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.tracing:tracing:1.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/39b2b61a46a6f335f59e1aa7b16dc8a6/transformed/tracing-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/39b2b61a46a6f335f59e1aa7b16dc8a6/transformed/tracing-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
